@@ -20,7 +20,7 @@ git clone https://github.com/kushinar09/bitrix24-portal
 
 Trước khi chạy dự án, bạn cần tạo file .env tại thư mục gốc của frontend:
 
-frontend/.env
+`.env`
 
 Nội dung mẫu .env:
 ```
