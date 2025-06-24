@@ -14,7 +14,7 @@
 ## 2. Clone project
 
 ```bash
-git clone <URL_REPO_FRONTEND>
+git clone kushinar09/bitrix24-portal
 cd frontend
 ```
 ## 3. Cấu hình môi trường
